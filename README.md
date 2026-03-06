@@ -12,22 +12,22 @@ The goal of the project was to explore the Unity engine and practice object orie
 
 ## Gameplay Features
 
-- Player-controlled ship with free movement  
+- Player-controlled ship with free 2D movement  
 - Projectile-based shooting system  
 - Enemy spawning and random shooting intervals
-- Collision and destruction handling w/ animated VFX
+- Collision detection and destruction effects
 - Support for alternate control schemes
 
 ## Systems Implemented
 
 ### Player Controller
-Handles movement and shooting input while maintaining responsive controls and consistent gameplay feel with the use of delta time.
+Handles movement and shooting input while maintaining responsive controls using delta time for frame-independent movement.
 
 ### Projectile System
 Reusable projectile logic for handling movement, collision detection, and damage interactions.
 
 ### Enemy Spawning
-Enemy wave spawning system with random variables for a more dynamic gameplay experience.
+Enemy wave spawning system with randomized spawn locations and shooting intervals to create dynamic encounters.
 
 ## Development Goals
 
