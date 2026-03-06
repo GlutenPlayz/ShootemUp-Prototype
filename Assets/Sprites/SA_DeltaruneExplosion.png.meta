@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: aa8cc95a7f13e3b4eb1110e53ca7517a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2881750600679297032
+    second: SA_DeltaruneExplosion_0
+  - first:
+      213: 5579454423006865717
+    second: SA_DeltaruneExplosion_1
+  - first:
+      213: -5920679829395394550
+    second: SA_DeltaruneExplosion_2
+  - first:
+      213: 329306725184151296
+    second: SA_DeltaruneExplosion_3
+  - first:
+      213: 1832899624461494083
+    second: SA_DeltaruneExplosion_4
+  - first:
+      213: 6317095142063775475
+    second: SA_DeltaruneExplosion_5
+  - first:
+      213: 2909973516124213948
+    second: SA_DeltaruneExplosion_6
+  - first:
+      213: 4494382383454048945
+    second: SA_DeltaruneExplosion_7
+  - first:
+      213: 7649610557000044706
+    second: SA_DeltaruneExplosion_8
+  - first:
+      213: -8320083227174706724
+    second: SA_DeltaruneExplosion_9
+  - first:
+      213: -1874386186323231970
+    second: SA_DeltaruneExplosion_10
+  - first:
+      213: 1607355501936249966
+    second: SA_DeltaruneExplosion_11
+  - first:
+      213: 2616449633390652669
+    second: SA_DeltaruneExplosion_12
+  - first:
+      213: -3216725986633064327
+    second: SA_DeltaruneExplosion_13
+  - first:
+      213: 5859957855537703811
+    second: SA_DeltaruneExplosion_14
+  - first:
+      213: 517911749247849881
+    second: SA_DeltaruneExplosion_15
+  - first:
+      213: -1684936702367781201
+    second: SA_DeltaruneExplosion_16
+  - first:
+      213: 4512369296309545933
+    second: SA_DeltaruneExplosion_17
+  - first:
+      213: -8820282278121724031
+    second: SA_DeltaruneExplosion_18
+  - first:
+      213: 6115323078533707747
+    second: SA_DeltaruneExplosion_19
+  - first:
+      213: 3908824558107122988
+    second: SA_DeltaruneExplosion_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80012c437e80ef720800000000000000
+      internalID: 2881750600679297032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396ecb8c343e6d40800000000000000
+      internalID: 5579454423006865717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a003114701585dda0800000000000000
+      internalID: -5920679829395394550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f9fb8c8bee19400800000000000000
+      internalID: 329306725184151296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34769f05f74cf6910800000000000000
+      internalID: 1832899624461494083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe9e03ff84daa750800000000000000
+      internalID: 6317095142063775475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2d066ce7d426820800000000000000
+      internalID: 2909973516124213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25d8a27f04f5e30800000000000000
+      internalID: 4494382383454048945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d010b540e82a60800000000000000
+      internalID: 7649610557000044706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e096f260298c80800000000000000
+      internalID: -8320083227174706724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bfd48c1b7dcf5e0800000000000000
+      internalID: -1874386186323231970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c0ea810597e4610800000000000000
+      internalID: 1607355501936249966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc63fa341f7f4420800000000000000
+      internalID: 2616449633390652669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970e7f212c4eb53d0800000000000000
+      internalID: -3216725986633064327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba51a4f90c25150800000000000000
+      internalID: 5859957855537703811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9955beeedfdff2700800000000000000
+      internalID: 517911749247849881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA_DeltaruneExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea9521ff6ed98e0800000000000000
+      internalID: -1684936702367781201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1acc4cd7e06ee2b44a802d48d17ed987
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":17.0,"y":1.0},"gridSpriteSize":{"x":71.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SA_DeltaruneExplosion_0: 2881750600679297032
+      SA_DeltaruneExplosion_1: 5579454423006865717
+      SA_DeltaruneExplosion_10: -1874386186323231970
+      SA_DeltaruneExplosion_11: 1607355501936249966
+      SA_DeltaruneExplosion_12: 2616449633390652669
+      SA_DeltaruneExplosion_13: -3216725986633064327
+      SA_DeltaruneExplosion_14: 5859957855537703811
+      SA_DeltaruneExplosion_15: 517911749247849881
+      SA_DeltaruneExplosion_16: -1684936702367781201
+      SA_DeltaruneExplosion_2: -5920679829395394550
+      SA_DeltaruneExplosion_3: 329306725184151296
+      SA_DeltaruneExplosion_4: 1832899624461494083
+      SA_DeltaruneExplosion_5: 6317095142063775475
+      SA_DeltaruneExplosion_6: 2909973516124213948
+      SA_DeltaruneExplosion_7: 4494382383454048945
+      SA_DeltaruneExplosion_8: 7649610557000044706
+      SA_DeltaruneExplosion_9: -8320083227174706724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
